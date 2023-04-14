@@ -5,6 +5,10 @@ body{
 }
 img{
     color: black;
+    align-items: center;
 }
 
+titulo{
+    text-align: center;
+}
 
