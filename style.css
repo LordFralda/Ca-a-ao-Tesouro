@@ -1,15 +1,11 @@
 body{
     background-color: rgb(123, 70, 173);
     text-align: justify;
-    color: brown;
+    text-decoration-color: darkgrey;
     
 }
 img{
-    color: black;
-    align-items: center;
-}
-
-titulo{
-    text-align: center;
+    color: aqua;
+    align-items: center
 }
 
