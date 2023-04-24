@@ -5,8 +5,7 @@ body{
     
 }
 img{
-    color: aqua;
-    align-items: center
+    text-align: center;
 }
 
 .titulo{
